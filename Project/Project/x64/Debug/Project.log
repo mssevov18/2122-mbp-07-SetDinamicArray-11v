@@ -1,0 +1,4 @@
+﻿  Set.cpp
+E:\Storage\Programming\Visual Studio\repos\C++\dinamic\Project\Project\Set.cpp(101,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Storage\Programming\Visual Studio\repos\C++\dinamic\Project\Project\Set.cpp(139,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project.vcxproj -> E:\Storage\Programming\Visual Studio\repos\C++\dinamic\Project\x64\Debug\Project.exe
